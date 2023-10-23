@@ -1,0 +1,281 @@
+[
+    {
+        "nombre": "alchemist",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Alchemist_icon.webp",
+        "url_view": "https://www.dota2.com/hero/alchemist",
+        "id": "1"
+    },
+    {
+        "nombre": "axe",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Axe_icon.webp",
+        "url_view": "https://www.dota2.com/hero/axe",
+        "id": "2"
+    },
+    {
+        "nombre": "doom",
+        "atributo": "fuerza",
+        "complejidad": "2",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Doom_icon.webp",
+        "url_view": "https://www.dota2.com/hero/doom",
+        "id": "3"
+    },
+    {
+        "nombre": "pudge",
+        "atributo": "fuerza",
+        "complejidad": "2",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Pudge_icon.webp",
+        "url_view": "https://www.dota2.com/hero/pudge",
+        "id": "4"
+    },
+    {
+        "nombre": "earth spirit",
+        "atributo": "fuerza",
+        "complejidad": "3",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Earth_Spirit_icon.webp",
+        "url_view": "https://www.dota2.com/hero/earthspirit",
+        "id": "5"
+    },
+    {
+        "nombre": "drow ranger",
+        "atributo": "agilidad",
+        "complejidad": "1",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Drow_Ranger_icon.webp",
+        "url_view": "https://www.dota2.com/hero/drowranger",
+        "id": "6"
+    },
+    {
+        "nombre": "phantom assassin",
+        "atributo": "agilidad",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Phantom_Assassin_icon.webp",
+        "url_view": "https://www.dota2.com/hero/phantomassassin",
+        "id": "7"
+    },
+    {
+        "nombre": "troll warlord",
+        "atributo": "agilidad",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Troll_Warlord_icon.webp",
+        "url_view": "https://www.dota2.com/hero/trollwarlord",
+        "id": "8"
+    },
+    {
+        "nombre": "weaver",
+        "atributo": "agilidad",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Weaver_icon.webp",
+        "url_view": "https://www.dota2.com/hero/weaver",
+        "id": "9"
+    },
+    {
+        "nombre": "arc warden",
+        "atributo": "agilidad",
+        "complejidad": "3",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Arc_Warden_icon.webp",
+        "url_view": "https://www.dota2.com/hero/arcwarden",
+        "id": "10"
+    },
+    {
+        "nombre": "meepo",
+        "atributo": "agilidad",
+        "complejidad": "3",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Meepo_icon.webp",
+        "url_view": "https://www.dota2.com/hero/meepo",
+        "id": "11"
+    },
+    {
+        "nombre": "death prophet",
+        "atributo": "inteligencia",
+        "complejidad": "1",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Death_Prophet_icon.webp",
+        "url_view": "https://www.dota2.com/hero/deathprophet",
+        "id": "12"
+    },
+    {
+        "nombre": "lina",
+        "atributo": "inteligencia",
+        "complejidad": "1",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Lina_icon.webp",
+        "url_view": "https://www.dota2.com/hero/lina",
+        "id": "13"
+    },
+    {
+        "nombre": "tinker",
+        "atributo": "inteligencia",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Tinker_icon.webp",
+        "url_view": "https://www.dota2.com/hero/tinker",
+        "id": "14"
+    },
+    {
+        "nombre": "pugna",
+        "atributo": "inteligencia",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Pugna_icon.webp",
+        "url_view": "https://www.dota2.com/hero/pugna",
+        "id": "15"
+    },
+    {
+        "nombre": "oracle",
+        "atributo": "inteligencia",
+        "complejidad": "3",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Oracle_icon.webp",
+        "url_view": "https://www.dota2.com/hero/oracle",
+        "id": "16"
+    },
+    {
+        "nombre": "rubick",
+        "atributo": "inteligencia",
+        "complejidad": "3",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Rubick_icon.webp",
+        "url_view": "https://www.dota2.com/hero/rubick",
+        "id": "17"
+    },
+    {
+        "nombre": "abaddon",
+        "atributo": "universal",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Abaddon_icon.webp",
+        "url_view": "https://www.dota2.com/hero/abaddon",
+        "id": "18"
+    },
+    {
+        "nombre": "dazzle",
+        "atributo": "universal",
+        "complejidad": "1",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Dazzle_icon.webp",
+        "url_view": "https://www.dota2.com/hero/dazzle",
+        "id": "19"
+    },
+    {
+        "nombre": "techies",
+        "atributo": "universal",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Techies_icon.webp",
+        "url_view": "https://www.dota2.com/hero/techies",
+        "id": "20"
+    },
+    {
+        "nombre": "clockwerk",
+        "atributo": "universal",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Clockwerk_icon.webp",
+        "url_view": "https://www.dota2.com/hero/clockwerk",
+        "id": "21"
+    },
+    {
+        "nombre": "invoker",
+        "atributo": "universal",
+        "complejidad": "3",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Invoker_icon.webp",
+        "url_view": "https://www.dota2.com/hero/invoker",
+        "id": "22"
+    },
+    {
+        "nombre": "io",
+        "atributo": "universal",
+        "complejidad": "3",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Io_icon.webp",
+        "url_view": "https://www.dota2.com/hero/io",
+        "id": "23"
+    },
+    {
+        "nombre": "ancient apparition",
+        "atributo": "inteligencia",
+        "complejidad": "2",
+        "tipo_de_ataque": "a distancia",
+        "imagen": "../../public/img/Ancient_Apparition_icon.webp",
+        "url_view": "https://www.dota2.com/hero/ancientapparition",
+        "id": "24"
+    },
+    {
+        "nombre": "bristleback",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Bristleback_icon.webp",
+        "url_view": "https://www.dota2.com/hero/bristleback",
+        "id": "25"
+    },
+    {
+        "nombre": "centaur warrunner",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Centaur_Warrunner_icon.webp",
+        "url_view": "https://www.dota2.com/hero/centaurwarrunner",
+        "id": "26"
+    },
+    {
+        "nombre": "chaos knight",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Chaos_Knight_icon.webp",
+        "url_view": "https://www.dota2.com/hero/chaosknight",
+        "id": "27"
+    },
+    {
+        "nombre": "tusk",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Tusk_icon.webp",
+        "url_view": "https://www.dota2.com/hero/tusk",
+        "id": "28"
+    },
+    {
+        "nombre": "dawnbreaker",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Dawnbreaker_icon.webp",
+        "url_view": "https://www.dota2.com/hero/dawnbreaker",
+        "id": "29"
+    },
+    {
+        "nombre": "dragon knight",
+        "atributo": "fuerza",
+        "complejidad": "1",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Dragon_Knight_icon.webp",
+        "url_view": "https://www.dota2.com/hero/dragonknight",
+        "id": "30"
+    },
+    {
+        "nombre": "earthshaker",
+        "atributo": "fuerza",
+        "complejidad": "2",
+        "tipo_de_ataque": "cuerpo a cuerpo",
+        "imagen": "../../public/img/Earthshaker_icon.webp",
+        "url_view": "https://www.dota2.com/hero/earthshaker",
+        "id": "31"
+    }
+]

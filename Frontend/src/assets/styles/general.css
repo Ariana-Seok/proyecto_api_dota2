@@ -1,0 +1,59 @@
+/* Importamos la fuente*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700&display=swap');
+:root{
+    --grisOscuro: #1C1C1C;
+    --grisClaro: #2F2F2F;
+    --negro: #0E0E0E;
+    --bordo: #A73A28;
+    --bordoClaro: #eb6048;
+    --verde: #167C13;
+    --celeste: #257DAE;
+    --rojo: #B9500B;
+    --morado: #5D3FD3;
+    --arena: #BE9454;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.root{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: rgb(125,125,125);
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(280deg, #839099 20%, #1A1F25 80%);
+}
+
+main{
+    width: 100%;
+    padding-top: 30px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 180px;
+    padding: 15px;
+    background-color: black;
+}
